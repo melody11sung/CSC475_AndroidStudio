@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240936288731",
+    "project_id": "event-calendar-bf79d",
+    "storage_bucket": "event-calendar-bf79d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240936288731:android:49c477017e47f07ef167fe",
+        "android_client_info": {
+          "package_name": "com.example.firebasecalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5EHOHaal-uC-NXjC6Nb-QXRPpH-xGUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

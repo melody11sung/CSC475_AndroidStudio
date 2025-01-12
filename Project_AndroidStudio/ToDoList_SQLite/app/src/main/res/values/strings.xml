@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoList_SQLite</string>
+    <string name="MM_dd_yyyy">mm-dd-yyyy</string>
+</resources>
